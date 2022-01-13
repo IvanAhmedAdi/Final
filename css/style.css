@@ -27,3 +27,10 @@ color: white;
     padding: 15px;
 }
 
+.bodymar{
+    background: radial-gradient(blue , black);
+}
+
+.row.row-cols-1.row-cols-md-2.g-4{
+    margin-top: 30px;
+}
