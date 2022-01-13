@@ -9,3 +9,21 @@ body{
 .enlacea{
     color: whitesmoke;
 }
+.bia{
+    background-image: url(/img/back6.jpg);
+}
+
+.bodycon{
+    background-image: url(/img/fondo2.jpg);
+    background-size: 100% 100%;
+}
+
+.letracon{
+color: white;
+}
+
+.container{
+  font-family: cursive;
+    padding: 15px;
+}
+
