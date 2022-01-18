@@ -45,3 +45,18 @@ color: white;
     margin-top: 30px;
     text-align: center;
 }
+
+.footerindex{
+    text-align: center;
+    font-family: cursive;
+    background: cornflowerblue;
+    color: cornsilk;
+}
+
+.h3footer{
+    background: purple;
+}
+
+.pfooter{
+    background: blue;
+}
