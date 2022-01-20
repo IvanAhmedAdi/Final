@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,cAAc;EAChC,KAAK,EAAC,QAAQ;CAOjB;;AATD,AAGI,IAHA,CAGA,EAAE,CAAA;EACE,KAAK,EAAE,MAAM;EACb,UAAU,EAAE,MAAM;CAGrB;;AAGL,AAAA,CAAC,CAAA;EACG,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,OAAO;EACpB,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "styles.scss",
+        "_index.scss",
+        "_contacto.scss",
+        "_insumos.scss",
+        "_mar.scss",
+        "_rio.scss",
+        "_headerFooter.scss",
+        "_mixin.scss",
+        "_normalize.scss",
+        "_vars.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
