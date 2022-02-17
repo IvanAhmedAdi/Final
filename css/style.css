@@ -39,12 +39,7 @@ color: white;
     margin-top: 30px;
 }
 
-.footins{
-    color: wheat;
-    background-color: darkblue;
-    margin-top: 30px;
-    text-align: center;
-}
+
 
 .letracon{
     margin-left: 20px;
@@ -56,4 +51,11 @@ form {
     font-family: cursive;
     color: aliceblue;
     margin: 30px;
+}
+
+.ftcn{
+    color: white;
+    background: radial-gradient(blue ,black);
+    font-family: cursive;
+    text-align: center;
 }
