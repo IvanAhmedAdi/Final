@@ -18,6 +18,20 @@ body{
     background-size: 100% 100%;
 }
 
+
+.bodynosotros{
+    background-image: url(/img/nosotrosfondo.jpg);
+    background-size: 100% 100%;
+    
+}
+
+.divnosotros{
+    color: white;
+    margin: 15px;
+}
+
+
+
 .letracon{
 color: white;
 }
