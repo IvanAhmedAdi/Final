@@ -30,7 +30,13 @@ body{
     margin: 15px;
 }
 
-
+.map-responsive {
+    overflow:hidden;
+    padding-top: 100px;
+    padding-bottom:400px;
+    position:relative;
+    height:0;
+}
 
 .letracon{
 color: white;
