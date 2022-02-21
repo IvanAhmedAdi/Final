@@ -1,6 +1,7 @@
 body {
   background-color: cornflowerblue;
   color: cornsilk;
+  
  
 }
 
@@ -15,6 +16,10 @@ p {
   font-family: cursive;
   text-align: center;
   font-size: 25px;
+}
+
+.iconpag{
+  background: darkblue;
 }
 
 /*# sourceMappingURL=styles.css.map */
